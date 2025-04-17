@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/55e4531d-c78b-49d5-998a-f6bd38cbb39e)
 # Welcome
 
 Incentro ECX is the Enterprise Customer Experience division of [Incentro](https://incentro.com), a leading company in digital transformation and customer experience. We design and develop innovative digital solutions that empower businesses to better serve their customers and accelerate growth.
